@@ -5,5 +5,5 @@ tail(airquality)#n number
 airquality[,c(1,2)]
 airquality$Month #dataset.columnname
 
-summary(airquality$Temp) 
+summary(airquality$Temp) #Median of temp col
 summary(airquality)
